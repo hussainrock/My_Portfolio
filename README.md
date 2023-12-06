@@ -21,6 +21,7 @@ This data analytics initiative delved into the intricacies of sales data, aiming
 I have made this project using Microsoft Excel.
 
 <h2>Data Visualization:</h2>
+![Screenshot (136)](https://github.com/hussainrock/My_Portfolio/assets/119557797/b35cbcc4-a4f4-408f-ad6a-43a289498186)
 
 
 
