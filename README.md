@@ -28,6 +28,33 @@ I have made this project using Microsoft Excel.
 <h3>Conclusion</h3>
 This project not only showcased my proficiency in data analytics but also highlighted my ability to derive actionable insights from complex datasets. The strategic analysis of sales by state, age group, gender, order status, and monthly trends provides a robust foundation for informed decision-making. The use of visualizations enhances the accessibility of the findings, making it a valuable asset for strategic planning and future business endeavors.
 
+--------------------------------------------------------------------------------------------------------------------------------
+<h3>Project title:</h3>
+Project1: Covid 19 Impact Analysis Dashboard
+<h3>Project Overview:</h3>
+
+The "Covid-19 Impact Analysis" project uses Python's Dash library web deployment to create an interactive dashboard. This dashboard visually represents key Covid-19 metrics such as total cases, active cases, recovered cases, and total deaths according to different states of India. It also analyzes the availability of essential items like masks, sanitizers, and oxygen. The goal is to make complex pandemic data easy to understand through interactive visuals.
+
+<h3>Tools and Technologies used:</h3>
+I have made this project using python and its libraries:-
+
+• numpy and pandas for data manipulation and analysis.
+
+• plotly.graph_objs and plotly.express for creating interactive plots.
+
+• dash for web application development.
+
+• dash_core_components, dash_html_components for creating the layout
+components.
+
+• Input, Output from dash.dependencies for handling callbacks
+
+<h3>Data Visualization:</h3> 
+
+![Screenshot (136)](https://github.com/hussainrock/My_Portfolio/assets/119557797/568c47e6-3965-49ac-afd3-39a3c770880b)
+
+<h3>Conclusion</h3>
+This project not only showcased my proficiency in data analytics but also highlighted my ability to derive actionable insights from complex datasets. The strategic analysis of sales by state, age group, gender, order status, and monthly trends provides a robust foundation for informed decision-making. The use of visualizations enhances the accessibility of the findings, making it a valuable asset for strategic planning and future business endeavors.
 
 
 
