@@ -51,10 +51,10 @@ components.
 
 <h3>Data Visualization:</h3> 
 
-![Screenshot (136)](https://github.com/hussainrock/My_Portfolio/assets/119557797/568c47e6-3965-49ac-afd3-39a3c770880b)
+![Screenshot (135)](https://github.com/hussainrock/My_Portfolio/assets/119557797/32a7eda6-4d55-44a8-84e3-7be590e8cbbe)
 
 <h3>Conclusion</h3>
-This project not only showcased my proficiency in data analytics but also highlighted my ability to derive actionable insights from complex datasets. The strategic analysis of sales by state, age group, gender, order status, and monthly trends provides a robust foundation for informed decision-making. The use of visualizations enhances the accessibility of the findings, making it a valuable asset for strategic planning and future business endeavors.
+This project not only enhances my skills in data analysis and web development but also serves as a practical application of data analytics and science in addressing real-world challenges.
 
 
 
