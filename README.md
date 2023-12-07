@@ -51,7 +51,8 @@ components.
 
 <h3>Data Visualization:</h3> 
 
-![Screenshot (135)](https://github.com/hussainrock/My_Portfolio/assets/119557797/32a7eda6-4d55-44a8-84e3-7be590e8cbbe)
+![Screenshot (142)](https://github.com/hussainrock/My_Portfolio/assets/119557797/974bbacd-e09c-472b-8c71-571738ff5e93)
+![Screenshot (143)](https://github.com/hussainrock/My_Portfolio/assets/119557797/9f993cee-2be4-4748-80de-16c348f3ed7b)
 
 <h3>Conclusion</h3>
 This project not only enhances my skills in data analysis and web development but also serves as a practical application of data analytics and science in addressing real-world challenges.
@@ -78,7 +79,7 @@ Through the lens of Power BI, this project becomes a testament to the transforma
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>Project title:</h3>
-Project3: Hotel Bookings Cancellation
+Project4: Hotel Bookings Cancellation
 <h3>Project Overview:</h3>
 
 The Hotel Booking Cancellation project in Microsoft Excel aimed to analyze and understand booking trends and cancellations in the hospitality industry. The analysis was segmented based on guest preferences, room choices, and temporal factors. The project explored booking and cancellation statistics for different accommodation types, including family bookings, single bookings, and two-adult bookings. Additionally, it delved into the reasons behind cancellations, categorizing them into desired and undesired room preferences, along with a monthly breakdown. This project provided valuable insights into customer behavior and allowed for a comprehensive understanding of factors influencing booking decisions.
