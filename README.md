@@ -75,6 +75,27 @@ I have made this project using Microsoft Power BI:-
 <h3>Conclusion</h3>
 Through the lens of Power BI, this project becomes a testament to the transformation of raw survey data into actionable insights. The amalgamation of visuals aids in decoding survey trends, identifying patterns, and empowering decision-makers with data-driven narratives. The inclusion of donut charts addresses specific concerns, such as the perceived difficulty of entering the data field and the gender-based salary distribution. Overall, this project serves not only as a visual journey through the survey results but also as a strategic tool for informed decision-making in the dynamic landscape of the data profession.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3>Project title:</h3>
+Project3: Hotel Bookings Cancellation
+<h3>Project Overview:</h3>
+
+The Hotel Booking Cancellation project in Microsoft Excel aimed to analyze and understand booking trends and cancellations in the hospitality industry. The analysis was segmented based on guest preferences, room choices, and temporal factors. The project explored booking and cancellation statistics for different accommodation types, including family bookings, single bookings, and two-adult bookings. Additionally, it delved into the reasons behind cancellations, categorizing them into desired and undesired room preferences, along with a monthly breakdown. This project provided valuable insights into customer behavior and allowed for a comprehensive understanding of factors influencing booking decisions.
+
+<h3>Tools and Technologies used:</h3>
+
+I have made this project using Microsoft Power BI:-
+
+
+<h3>Data Visualization:</h3> 
+
+![Screenshot (139)](https://github.com/hussainrock/My_Portfolio/assets/119557797/6920a562-5bdf-4380-b2cf-af652d01704a)
+
+<h3>Conclusion</h3>
+
+Through meticulous analysis, this project successfully revealed patterns and trends in hotel bookings and cancellations. The segmentation based on guest preferences and room choices provided a nuanced understanding of customer behavior. Understanding the reasons behind cancellations, especially in terms of room preferences, contributes to enhancing the overall guest experience. The monthly analysis further allowed for seasonality insights, aiding in strategic planning for the hotel industry. Overall, this project in Microsoft Excel facilitates data-driven decision-making, empowering stakeholders to optimize their services and improve customer satisfaction in the dynamic hospitality sector.
+
 
 
 
