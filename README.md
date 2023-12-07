@@ -70,7 +70,7 @@ I have made this project using Microsoft Power BI:-
 
 <h3>Data Visualization:</h3> 
 
-![Screenshot (135)](https://github.com/hussainrock/My_Portfolio/assets/119557797/32a7eda6-4d55-44a8-84e3-7be590e8cbbe)
+![Screenshot (140)](https://github.com/hussainrock/My_Portfolio/assets/119557797/d425faeb-8fad-4302-8ddf-d2d2407cf365)
 
 <h3>Conclusion</h3>
 Through the lens of Power BI, this project becomes a testament to the transformation of raw survey data into actionable insights. The amalgamation of visuals aids in decoding survey trends, identifying patterns, and empowering decision-makers with data-driven narratives. The inclusion of donut charts addresses specific concerns, such as the perceived difficulty of entering the data field and the gender-based salary distribution. Overall, this project serves not only as a visual journey through the survey results but also as a strategic tool for informed decision-making in the dynamic landscape of the data profession.
