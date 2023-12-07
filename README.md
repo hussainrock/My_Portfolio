@@ -56,6 +56,32 @@ components.
 <h3>Conclusion</h3>
 This project not only enhances my skills in data analysis and web development but also serves as a practical application of data analytics and science in addressing real-world challenges.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>Project title:</h3>
+Project3: Data Professionals survey Breakdown
+<h3>Project Overview:</h3>
+
+In this data-centric project, I conducted an in-depth survey analysis among data professionals, extracting meaningful insights and translating them into powerful visualizations. Prioritizing data integrity, I meticulously cleaned the dataset, ensuring no anomalies in null values, empty columns, or incorrect data types. The project showcases diverse visualizations, including stacked bar charts revealing the average salary by job title and stacked columns illuminating the popularity of programming languages. Gauging work-life balance and salary satisfaction through dedicated charts added a nuanced perspective. The treemap detailing job titles across countries shed light on global workforce dynamics. By employing Power BI's capabilities, I crafted a comprehensive narrative that speaks to the challenges faced in breaking into the data field and the gender-based salary disparities.
+
+<h3>Tools and Technologies used:</h3>
+
+I have made this project using Microsoft Power BI:-
+
+
+<h3>Data Visualization:</h3> 
+
+![Screenshot (135)](https://github.com/hussainrock/My_Portfolio/assets/119557797/32a7eda6-4d55-44a8-84e3-7be590e8cbbe)
+
+<h3>Conclusion</h3>
+Through the lens of Power BI, this project becomes a testament to the transformation of raw survey data into actionable insights. The amalgamation of visuals aids in decoding survey trends, identifying patterns, and empowering decision-makers with data-driven narratives. The inclusion of donut charts addresses specific concerns, such as the perceived difficulty of entering the data field and the gender-based salary distribution. Overall, this project serves not only as a visual journey through the survey results but also as a strategic tool for informed decision-making in the dynamic landscape of the data profession.
+
+
+
+
+
+
+
+
 
 
 
