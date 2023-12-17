@@ -118,36 +118,47 @@ I have made this project using MY SQL:-
 	select count(*) from car_dekho; -- we have 7927 cars.
 
 -- 2) The manager asked the employee How many cars will be available in 2023?
+
 select count(*) from car_dekho where year=2023; -- 6 cars.
 
 -- 3) The manager asked the employee How many cars is available in 2020,2021,2022
+
 select count(*) from car_dekho where year in (2020,2021,2022); -- 88 cars.
 
 -- 4) Clint asked me to print the total of all cars by year. I don't see all the details.
+
 select year,count(*) no_of_cars from car_dekho group by year;
 
 -- 5) Clint asked to car dealer agent How many diesel cars will there be in 2020?
+
 select count(*) from car_dekho where year=2020 and fuel="diesel"; -- 20
 
 -- 6) Clint requested a car dealer agent How many petrol cars will there be in 2020?
+
 select count(*) from car_dekho where year=2020 and fuel="petrol"; -- 51
 
 -- 7) The manager told the employee to give a print All the fuel cars (petrol, diesel,
 -- and CNG) come by all year.
+
 select year,count(*) from car_dekho where fuel="petrol" group by year;
+
 select year,count(*) from car_dekho where fuel="diesel" group by year;
+
 select year,count(*) from car_dekho where fuel="cng" group by year;
 
 -- 8) Manager said there were more than 100 cars in a given year, which year had
 -- more than 100 cars?
+
 select year,count(*) carCount  from car_dekho group by year having carCount>100 ;
 
 -- 9) The manager said to the employee All cars count details between 2015 and 2023;
 -- we need a complete list.
+
 select year, count(*) from car_dekho where year between 2015 and 2023 group by year;
 
 -- 10) The manager said to the employee All cars details between 2015 to 2023
 -- we need complete list
+
 select * from car_dekho where year between 2015 and 2023;
 
 <h3>Conclusion</h3>
