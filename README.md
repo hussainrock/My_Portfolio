@@ -113,9 +113,11 @@ I have made this project using MY SQL:-
 
 <h3>SQL queries</h3> 
 
-	SELECT * FROM sql_project.car_dekho;
-	-- 1) total cars to get a count of total records
-	select count(*) from car_dekho; -- we have 7927 cars.
+SELECT * FROM sql_project.car_dekho;
+
+-- 1) total cars to get a count of total records
+
+select count(*) from car_dekho; -- we have 7927 cars.
 
 -- 2) The manager asked the employee How many cars will be available in 2023?
 
