@@ -13,6 +13,8 @@ Python, SQL, Excel, and data visualization tools like Power BI in the background
 
 <p1>• Project4: Hotel booking cancellation<p/>
 
+<p1>• Project5:SQL project: second hand car dealer<p/>
+
 <h3>Project title:</h3>
 Project1: Online store annual report
 <h3>Project Overview:</h3>
@@ -97,7 +99,60 @@ I have made this project using Microsoft Power BI:-
 
 Through meticulous analysis, this project successfully revealed patterns and trends in hotel bookings and cancellations. The segmentation based on guest preferences and room choices provided a nuanced understanding of customer behavior. Understanding the reasons behind cancellations, especially in terms of room preferences, contributes to enhancing the overall guest experience. The monthly analysis further allowed for seasonality insights, aiding in strategic planning for the hotel industry. Overall, this project in Microsoft Excel facilitates data-driven decision-making, empowering stakeholders to optimize their services and improve customer satisfaction in the dynamic hospitality sector.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+<h3>Project title:</h3>
+Project4: second hand car dealer
+<h3>Project Overview:</h3>
 
+This project involves querying a second-hand car dealer's database using SQL to address specific inquiries. We determined the total car count, identified cars available in 2023, detailed counts for 2020, 2021, and 2022, and categorized cars by fuel type. Clint requested specific counts for diesel and petrol cars in 2020. The manager sought information on the year with over 100 cars and a complete list of details for cars between 2015 and 2023. This project showcases proficiency in SQL for data analysis, providing precise answers to stakeholder questions and offering comprehensive insights into the dealership's inventory over the specified years.
+
+<h3>Tools and Technologies used:</h3>
+
+I have made this project using MY SQL:-
+
+
+<h3>SQL queries</h3> 
+
+	SELECT * FROM sql_project.car_dekho;
+	-- 1) total cars to get a count of total records
+	select count(*) from car_dekho; -- we have 7927 cars.
+
+-- 2) The manager asked the employee How many cars will be available in 2023?
+select count(*) from car_dekho where year=2023; -- 6 cars.
+
+-- 3) The manager asked the employee How many cars is available in 2020,2021,2022
+select count(*) from car_dekho where year in (2020,2021,2022); -- 88 cars.
+
+-- 4) Clint asked me to print the total of all cars by year. I don't see all the details.
+select year,count(*) no_of_cars from car_dekho group by year;
+
+-- 5) Clint asked to car dealer agent How many diesel cars will there be in 2020?
+select count(*) from car_dekho where year=2020 and fuel="diesel"; -- 20
+
+-- 6) Clint requested a car dealer agent How many petrol cars will there be in 2020?
+select count(*) from car_dekho where year=2020 and fuel="petrol"; -- 51
+
+-- 7) The manager told the employee to give a print All the fuel cars (petrol, diesel,
+-- and CNG) come by all year.
+select year,count(*) from car_dekho where fuel="petrol" group by year;
+select year,count(*) from car_dekho where fuel="diesel" group by year;
+select year,count(*) from car_dekho where fuel="cng" group by year;
+
+-- 8) Manager said there were more than 100 cars in a given year, which year had
+-- more than 100 cars?
+select year,count(*) carCount  from car_dekho group by year having carCount>100 ;
+
+-- 9) The manager said to the employee All cars count details between 2015 and 2023;
+-- we need a complete list.
+select year, count(*) from car_dekho where year between 2015 and 2023 group by year;
+
+-- 10) The manager said to the employee All cars details between 2015 to 2023
+-- we need complete list
+select * from car_dekho where year between 2015 and 2023;
+
+<h3>Conclusion</h3>
+
+In conclusion, this SQL project successfully navigated the second-hand car dealer's database, answering critical questions posed by stakeholders. By employing SQL queries, we achieved a comprehensive understanding of the total car count, year-specific availability, fuel type categorization, and detailed insights for targeted years. The project showcased adeptness in data analysis, meeting specific client requests for diesel and petrol car counts, and fulfilling the manager's need for information on the year with over 100 cars. This exercise underscores the ability to extract meaningful insights from complex datasets, providing valuable information to support decision-making in the automotive dealership domain.
 
 
 
